@@ -1,0 +1,15 @@
+export const colors = {
+  whiteColor: 'white',
+  lightGrey: '#666666',
+  blueish: '#F0F4FC',
+  blueColor: '#0091FF',
+  lightshGrey: '#333333',
+  lightshGrey2: '#222222',
+  primary: '#4871FF',
+  borderGrey: '#9D9D9D',
+  lightBorder: '#707070',
+  darkGrey: '#CECECE',
+  borderGrey2: '#999999',
+  moreLightGreyish: '#252525',
+  black:'black',
+};
